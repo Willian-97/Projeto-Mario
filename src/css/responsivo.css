@@ -1,6 +1,6 @@
 @media (max-width: 1200px) {
     body {
-       background-color: #f44336;
+      background:linear-gradient(90deg,  #f44336, #d31305, #860808);
     }
 
     .fundo-video {
